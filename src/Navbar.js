@@ -5,7 +5,7 @@ export const Navbar = () => {
   return (
     <nav className="nav">
       <Link to="/home" className="site-title">
-        Chemical Processing
+        SmartXchain
       </Link>
       <ul>
         <CustomLink to="/home">Home</CustomLink>
